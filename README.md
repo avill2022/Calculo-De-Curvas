@@ -1,4 +1,4 @@
-# Graph Visualization Tool
+# Curve calculation
 
 ![Screenshot 2024-02-25 085803](https://github.com/avill2022/Calculo-De-Curvas/assets/105819329/9b8d6291-df09-45ad-b23b-6698adb692ff)
 
